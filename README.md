@@ -3,6 +3,8 @@ ManHunt
 
 A lightweight Manhunt (hunter vs speedrunner) minigame plugin for Spigot.
 
+[中文README（Chinese version）](https://github.com/re-mcmohen/SpigotPlugin-Manhunt/blob/main/README_zh.md)
+
 Plugin
 ------
 - Name: ManHunt

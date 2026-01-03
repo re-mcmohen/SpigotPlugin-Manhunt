@@ -3,6 +3,8 @@ ManHunt 插件
 
 一个轻量级的 Manhunt（猎人 vs 速通者）小游戏插件，适用于 Spigot 服务端。
 
+[英文README（English version）](https://github.com/re-mcmohen/SpigotPlugin-Manhunt)
+
 插件信息
 --------
 - 名称: ManHunt
