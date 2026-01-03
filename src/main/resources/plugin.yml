@@ -1,0 +1,24 @@
+name: ManHunt
+version: '1.0-SNAPSHOT'
+main: top.mcmohen.manHunt.ManHunt
+api-version: '1.19'
+
+commands:
+  test:
+    description: "测试命令"
+    usage: "/test"
+
+  manhunt:
+    description: "ManHunt 主命令"
+    aliases: [mh]
+    usage: "/<command> <subcommand>"
+
+    subcommands:
+      help:
+        description: "显示帮助信息"
+        usage: "/manhunt help"
+      join:
+        description: "加入不同队伍"
+        usage: "/manhunt join <team>"
+
+
